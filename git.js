@@ -1,1 +1,5 @@
-console.log('all are good');
+console.log('all are ')
+
+function add(){
+  
+}
